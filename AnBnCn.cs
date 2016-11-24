@@ -1,6 +1,5 @@
 ﻿/* Subject: CSE 500 - Fall 2016 - Extra Credit Exercise
  * Author:  Bogdan Kravtsov
- *          004981089
  * Date:    11/22/2016
  * 
  * Details: Reads in a set of strings and checks if they belong in
